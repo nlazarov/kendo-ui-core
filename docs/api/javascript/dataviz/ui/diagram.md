@@ -3097,6 +3097,10 @@ The point in View coordinates.
 
 The bounds of the diagramming canvas.
 
+#### Returns
+
+`kendo.dataviz.diagram.Rect` as bounds of the viewport
+
 ### zoom
 
 Zooms in or out of the diagram.
